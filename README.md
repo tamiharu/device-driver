@@ -17,3 +17,14 @@
 実際の写真![145840682-ddc4927a-470e-43a7-8ca2-4dd4d7a4e4bc](https://user-images.githubusercontent.com/93331260/145842041-31ddea61-1b9a-4a9e-b127-173d34ed0b43.jpg)
 
 # ビルド方法
+
+# 実行方法
+点灯
+
+消灯
+
+終了(ドライバをアンインストール)
+
+実行結果
+実行した結果を撮影した動画をyoutubeで見る事が出来ます。
+https://www.youtube.com/watch?v=_2moJfYogqU
