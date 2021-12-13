@@ -16,6 +16,4 @@
 # 配線図
 実際の写真![145840682-ddc4927a-470e-43a7-8ca2-4dd4d7a4e4bc](https://user-images.githubusercontent.com/93331260/145842041-31ddea61-1b9a-4a9e-b127-173d34ed0b43.jpg)
 
-![ブレッドボード](https://user-images.githubusercontent.com/93331260/145840682-ddc4927a-470e-43a7-8ca2-4dd4d7a4e4bc.jpg)
-
 # ビルド方法
