@@ -43,6 +43,7 @@
 https://www.youtube.com/watch?v=_2moJfYogqU
 
 # ライセンス
+GNU General Public License v3.0
 https://github.com/tamiharu/device-driver/blob/main/LICENSE
 
 # その他(著作者等)
