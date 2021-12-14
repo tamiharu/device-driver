@@ -31,9 +31,10 @@
 終了(ドライバをアンインストール)
 
 
-実行結果
+# 実行結果
 実行した結果を撮影した動画をyoutubeで見る事が出来ます。
 https://www.youtube.com/watch?v=_2moJfYogqU
 
 著作者
-上田隆一
+上田隆一(Ryuichi Ueda)
+伊丹悠人(Haruto Itami)
