@@ -6,7 +6,7 @@
 *・raspberry pi 4B  
 ・OS : ubuntu 20.04 server*
 
-# 用意した物
+# 使用した物
 *・raspberry pi 4B × 1  
 ・LED × 1  
 ・抵抗　240Ω × 1  
@@ -42,7 +42,7 @@
 実行した結果を撮影した動画をyoutubeで見る事が出来ます。  
 https://www.youtube.com/watch?v=_2moJfYogqU
 
-# その他
+# その他(著作者等)
 著作者  
 上田隆一(Ryuichi Ueda)  
 伊丹悠人(Haruto Itami)
