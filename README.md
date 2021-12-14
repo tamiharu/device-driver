@@ -43,7 +43,7 @@
 https://www.youtube.com/watch?v=_2moJfYogqU
 
 # ライセンス
-
+https://github.com/tamiharu/device-driver/blob/main/LICENSE
 
 # その他(著作者等)
 著作者  
