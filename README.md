@@ -54,4 +54,3 @@ https://github.com/tamiharu/device-driver/blob/main/LICENSE
 # その他(著作者等)
 著作者  
 上田隆一(Ryuichi Ueda)  
-伊丹悠人(Haruto Itami)
