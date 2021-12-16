@@ -5,7 +5,7 @@
 #include <linux/uaccess.h> //ヘッダに追加
 #include <linux/io.h> //ヘッダファイルを追加
 
-MODULE_AUTHOR("Haruto Itami");
+MODULE_AUTHOR("Ryuichi Ueda");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
