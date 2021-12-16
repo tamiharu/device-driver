@@ -23,24 +23,24 @@
 
 # ビルド方法
 *インストール*  
-    `git clone https://github.com/tamiharu/device-driver.git`  
+    `$ git clone https://github.com/tamiharu/device-driver.git`  
     
 *インストール後の手順*  
 
-    make
+    $ make
     (処理…(途中で警告が入りますが無視で大丈夫です))
-    sudo insmod myled.ko　(LEDを操作するカーネルモジュールをインストール)
-    sudo chmod 666 /dev/myled0  (ファイルの操作を出来るようにします。)
+    $ sudo insmod myled.ko　(LEDを操作するカーネルモジュールをインストール)
+    $ sudo chmod 666 /dev/myled0  (ファイルの操作を出来るようにします。)
 
 # 実行方法
 点灯  
-`echo 1 > /dev/myled0`
+`$ echo 1 > /dev/myled0`
 
 消灯  
-`echo 0 > /dev/myled0`
+`$ echo 0 > /dev/myled0`
 
 終了(ドライバをアンインストール)  
-`sudo rmmod myled`
+`$ sudo rmmod myled`
 
 
 # 実行結果
