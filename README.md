@@ -13,8 +13,13 @@
 ・ブレッドボード × 1  
 ・ジャンパー線　(オス-メス)× 2
 
-# 配線
-実際の写真![145840682-ddc4927a-470e-43a7-8ca2-4dd4d7a4e4bc](https://user-images.githubusercontent.com/93331260/145842041-31ddea61-1b9a-4a9e-b127-173d34ed0b43.jpg)
+# 配線&回路図
+実際の写真  
+![ブレッドボード](https://user-images.githubusercontent.com/93331260/146293272-bc1798c2-f006-4095-9d9e-8560502d7ec8.jpg)
+
+回路図  
+![image](https://user-images.githubusercontent.com/93331260/146293126-fb626c16-b252-45a9-854b-8c045fd2bbd6.png)
+
 
 # ビルド方法
 *インストール*  
@@ -24,8 +29,8 @@
 
     make
     (処理…(途中で警告が入りますが無視で大丈夫です))
-    sudo insmod myled.ko
-    sudo chmod 666 /dev/myled0
+    sudo insmod myled.ko　(LEDを操作するカーネルモジュールをインストール)
+    sudo chmod 666 /dev/myled0  (ファイルの操作を出来るようにします。)
 
 # 実行方法
 点灯  
